@@ -1,6 +1,8 @@
 # 1-my_list.txt
 # Msekni Firas  <5680@holbertonstudents.com>
 
+>>> MyList = __import__('1-my_list').MyList
+
 =======================
 How to Use 1-my_list.py
 =======================
